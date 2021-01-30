@@ -30,6 +30,9 @@ If giberish appears in lower edit box then the incorrect One Time Pad has been u
 
 ## Maintain security
 The main method for maintaining security is the secret of the One Time Pad. This is also the main problem with this method, as the One Time Pads available must be the same at both the transmitting and receiving computer yet these pads should not be transmitted electronically (e.g. email) making it logistically difficult to maintain the pads if the number of messages are large.
+
+All One Time Pads are stored in a subfolder - 'Storage' and I have included 10 Pads to get started. As stated above it is possible (and recommended) to generate more from within the program for your own use.
+
 Remeber - if anyone has access to the pad used then the message can be decrypted.
 
 Date: 30 January 2021
