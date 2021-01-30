@@ -33,7 +33,7 @@ The main method for maintaining security is the secret of the One Time Pad. This
 
 All One Time Pads are stored in a subfolder - 'Storage' and I have included 10 Pads to get started. As stated above it is possible (and recommended) to generate more from within the program for your own use.
 
-Remeber - if anyone has access to the pad used then the message can be decrypted.
+Remember - if anyone has access to the pad used then the message can be decrypted.
 
 Date: 30 January 2021
 
